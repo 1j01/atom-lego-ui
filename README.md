@@ -4,6 +4,9 @@ A graphical theme for Atom using sprites from Junkbot, an old Lego game.
 
 <!-- ![theme screenshot]() -->
 
+## DON'T BOTHER
+
+Nothing is done yet. This repo is public because the instructions told me to fork a template repo, and GitHub doesn't let you make a fork private.
 
 ## Development Setup
 
