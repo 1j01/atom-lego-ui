@@ -1,13 +1,18 @@
 {
-  "name": "ui-theme-template",
+  "name": "lego-ui",
   "theme": "ui",
   "version": "0.0.0",
-  "description": "A short description of your UI theme",
+  "description": "Graphical theme with lego brick sprites",
   "keywords": [
     "ui",
-    "theme"
+    "theme",
+    "graphical",
+    "graphics",
+    "sprites",
+    "images",
+    "lego"
   ],
-  "repository": "https://github.com/atom-community/ui-theme-template",
+  "repository": "https://github.com/1j01/atom-lego-ui",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
